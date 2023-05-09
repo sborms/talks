@@ -1,9 +1,11 @@
 # Public speaking
 
-I love giving talks and workshops, here is a list of the ones I’ve done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
+I love giving talks and workshops! Here is a list of the ones I’ve done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
 
 ## Talks
 
+- **January 2020** (Leuven) | 23rd Data Science Leuven Meetup
+  - "Sentometrics - Aggregate textual data into index solutions"
 - **December 2019** (London) | International Conference on Computational and Financial Econometrics
   - "Conservative and timely ESG-compliant investment screening using text mining" [[slides]](slides/CFE_2019.pdf)
 - **July 2019** (Toulouse) | useR!
