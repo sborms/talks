@@ -1,6 +1,6 @@
 # Public speaking
 
-I love giving talks and workshops, here is a list of the ones I’ve done in the past. It's been a while, but I plan to take this up more often in the near future.
+I love giving talks and workshops, here is a list of the ones I’ve done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
 
 ## Talks
 
@@ -22,9 +22,9 @@ I love giving talks and workshops, here is a list of the ones I’ve done in the
   - "Accounting for non-normality and luck in fund peer performance evaluation" [[slides]](slides/CFE_2017.pdf)
 
 ## Workshops
-- **November 2021** (Brussels) | Executive Program in Business Analytics
-  - Two-day "Prediction in R" hackaton as part of Solvay Brussels School's Executive Program in Business Analytics
-- **May 2021** (remote) | Belgian Association of Marketing
-  - Gave the "Essentials of coding/modeling" session as part of the "Discover Data Science" course from the Belgian Association of Marketing (BAM)
-- **January 2018** (Amsterdam) | Marketing data case
-  - Multi-session data case workshop on text mining for marketing students at the Vrije Universiteit Amsterdam
+- **November 2021** (Brussels) | Solvay Brussels School
+  - Two-day "Prediction in R" hackaton as part of Solvay's Executive Program in Business Analytics
+- **May 2021** (remote) | Belgian Association of Marketing (BAM)
+  - Gave the "Essentials of coding/modeling" session as part of BAM's "Discover Data Science" course
+- **January 2018** (Amsterdam) | Vrije Universiteit Amsterdam
+  - Multi-session data case workshop on text mining for marketing students
