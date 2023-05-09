@@ -19,7 +19,7 @@ I love giving talks and workshops, here is a list of the ones I’ve done in the
 - **May 2018** (Budapest) | European R Users Meeting (eRum)
   - Conference talk "An integrated framework in R for textual sentiment time series aggregation and prediction" [[slides]]() [[presentation]](https://www.youtube.com/watch?v=KC8LSBNvZrQ)
 - **December 2017** (London) | International Conference on Computational and Financial Econometrics
-  - Conference talk "Accounting for non-normality and luck in fund peer performance evaluation"
+  - Conference talk "Accounting for non-normality and luck in fund peer performance evaluation" [[slides]]()
 
 ## Workshops
 - **November 2021** (Brussels) | Executive Program in Business Analytics
