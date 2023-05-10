@@ -3,7 +3,7 @@
 I love giving talks and workshops! Here is a list of the ones I have done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
 
 <figure>
-  <img src="presenting.png" width="500" height="375" alt="presenting">
+  <img src="presenting.png" width="475" height="350" alt="presenting">
   <figcaption><em>Presenting at the useR! 2019 conference in Toulouse</em></figcaption>
 </figure>
 
