@@ -1,11 +1,15 @@
 # Public speaking
 
-I love giving talks and workshops! Here is a list of the ones I’ve done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
+I love giving talks and workshops! Here is a list of the ones I've done in the past. It's been a while, but I plan to take this up more often in the near future. 🎤
+
+<img src="presenting.png" width="400" height="300" alt="presenting">
 
 ## Talks
 
+- **August 2020** (Brussels) | Public PhD defense
+  - "Sentiment and Econometrics: Toward A Unified Framework of Textual Sentiment Analysis for Economic and Financial Applications" [[slides]](slides/PhDdefense_2020.pdf)
 - **January 2020** (Leuven) | 23rd Data Science Leuven Meetup
-  - "Sentometrics - Aggregate textual data into index solutions"
+  - "Sentometrics - Aggregate textual data into index solutions" [[slides]](slides/DSMeetupLeuven_2020.pdf)
 - **December 2019** (London) | International Conference on Computational and Financial Econometrics
   - "Conservative and timely ESG-compliant investment screening using text mining" [[slides]](slides/CFE_2019.pdf)
 - **July 2019** (Toulouse) | useR!
@@ -27,6 +31,6 @@ I love giving talks and workshops! Here is a list of the ones I’ve done in the
 - **November 2021** (Brussels) | Solvay Brussels School
   - Two-day "Prediction in R" hackaton as part of Solvay's Executive Program in Business Analytics
 - **May 2021** (remote) | Belgian Association of Marketing (BAM)
-  - Gave the "Essentials of coding/modeling" session as part of BAM's "Discover Data Science" course
+  - Gave the "Essentials of coding/modeling" session as part of BAM's "Discover Data Science" course [[slides]](slides/BAM_2021.pdf)
 - **January 2018** (Amsterdam) | Vrije Universiteit Amsterdam
   - Multi-session data case workshop on text mining for marketing students
