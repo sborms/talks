@@ -31,6 +31,8 @@ I love giving talks and workshops! Here is a list of the ones I have done in the
   - "Accounting for non-normality and luck in fund peer performance evaluation" [[slides]](slides/CFE_2017.pdf)
 
 ## Workshops
+- **October 2023** (Mechelen) | Telenet
+  - Two-day workshop to introduce Python and pandas to a team of Telenet data analysts
 - **November 2021** (Brussels) | Solvay Brussels School
   - Two-day "Prediction in R" hackaton as part of Solvay's Executive Program in Business Analytics
 - **May 2021** (remote) | Belgian Association of Marketing (BAM)
