@@ -31,6 +31,8 @@ I love giving talks and workshops! Here is a list of the ones I have done in the
   - "Accounting for non-normality and luck in fund peer performance evaluation" [[slides]](slides/CFE_2017.pdf)
 
 ## Workshops
+- **September 2024** (Ans) | Ethias
+  - One-day workshop about (generative) AI to a non-technical audience
 - **October 2023** (Mechelen) | Telenet
   - Two-day workshop to introduce Python and pandas to a team of Telenet data analysts
 - **November 2021** (Brussels) | Solvay Brussels School
